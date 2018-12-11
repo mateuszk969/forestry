@@ -28,4 +28,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _projects/test-1.md
 - _projects/test.md
