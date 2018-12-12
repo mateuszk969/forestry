@@ -10,9 +10,14 @@ tags:
 - Forestry
 layout: post
 banner_image: ''
+categories: title
+image: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
+
 ---
 Welcome to the Belkirk College of Engineering Demo Site!
 
 This site allows you to explore Forestry's features and functionality, and is **not** meant to be used as a production website. To get started building your own site, please see our [documentation](https://forestry.io/docs/).
 
-Thank you for choosing to demo Forestry!
+    Thank you for choosing to demo Forestry!
+
+# d
