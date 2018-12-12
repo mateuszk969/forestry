@@ -8,5 +8,30 @@ fields:
   type: text
   hidden: false
   default: post
+- type: text
+  name: title
+  label: title
+  description: enter a title
+  config:
+    required: true
+- type: tag_list
+  name: tags
+  label: tags
+  default: []
+- type: select
+  name: categories
+  config:
+    source:
+      type: documents
+      file: _projects/electric-vehicle-design.md
+    required: true
+  label: categories
+  default: sub_heading
+- type: datetime
+  label: date
+  name: date
+- type: file
+  label: image
+  name: image
 pages:
 - _posts/test.md
