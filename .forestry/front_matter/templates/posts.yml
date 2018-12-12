@@ -35,3 +35,4 @@ fields:
   name: image
 pages:
 - _posts/test.md
+- _posts/ffs.md
